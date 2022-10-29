@@ -1,16 +1,16 @@
 {
-"name": "luckygames888",
-"theme": "luckygames 888",
-"version": "4.8.3",
-"description": "luckygames 888 ทางเข้าหลักเว็บไซต์พนันเว็บตรง ไม่ผ่านเอเย่นต์ ให้โบนัสเครดิตฟรี",
-"keywords": [
-"luckygames 888",
-"luckygames 888 เครดิตฟรี",
-"luckygames 888 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/luckygames888",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "luckygames888",
+  "theme": "luckygames 888",
+  "version": "4.9.0",
+  "description": "luckygames 888 ทางเข้าหลักเว็บไซต์พนันเว็บตรง ไม่ผ่านเอเย่นต์ ให้โบนัสเครดิตฟรี",
+  "keywords": [
+    "luckygames 888",
+    "luckygames 888 เครดิตฟรี",
+    "luckygames 888 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/luckygames888",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
